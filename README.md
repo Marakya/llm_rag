@@ -1,1 +1,1 @@
-# llm_rag
+# llm_course_lab
